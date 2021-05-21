@@ -2,7 +2,7 @@
 
 I am currently a `Data Scientist` at the DoD, focusing on policy understanding through Data Science.
 
-👷🏽‍♂  Check out the teams work at, [GAMECHANGER](https://github.com/dod-advana/gamechanger)
+👷🏽‍♂  Check out the teams work at [GAMECHANGER](https://github.com/dod-advana/gamechanger)
 
 💁🏽‍♂  I take the occasional picture at [Dominiccritchlow.com](https://dominiccritchlow.com/photography)
  
