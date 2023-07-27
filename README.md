@@ -1,9 +1,7 @@
 ### Hello, I'm Dominic 👋🏽
 
-I am currently a `Technical Product Manager` at the DoD, focusing on policy understanding through Data Science.
-
-👷🏽‍♂  Check out the teams work at [GAMECHANGER](https://github.com/dod-advana/gamechanger)
+I sometimes make things on the internet.
 
 💁🏽‍♂  I take the occasional picture at [Critchlow.us](https://critchlow.us/photography)
  
-🧗🏽‍♂ ☕ 📸
+
