@@ -2,7 +2,7 @@
 
 AI engineering + product leadership. I build production search + retrieval systems, ship automation end-to-end, and like problems where constraints are real (scale, latency, security, messy data).
 
-**Quick links:** [Website](https://critchlow.us) · [Writing](https://critchlow.us/writing) · [LinkedIn](https://www.linkedin.com/in/dominiccritchlow/) · [Email](mailto:YOUR_EMAIL_HERE)
+**Quick links:** [Website](https://critchlow.us) · [Writing](https://critchlow.us/writing) · [LinkedIn](https://www.linkedin.com/in/dominiccritchlow/) · [Email](mailto:dominic@critchlow.us)
 
 ---
 
