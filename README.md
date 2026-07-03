@@ -12,6 +12,10 @@ Forward Deployed PM at Fractional AI. I scope and ship custom LLM products for e
 SwiftUI, SwiftData, MapKit, private CloudKit sync. No servers, no tracking. Live on the App Store.
 - https://critchlow.us/pinned
 
+### 🌎 Flags — country mentions in U.S. congressional language
+Which countries dominate what Congress talks about? Tracks every country mention across bills, nominations, amendments, and the Congressional Record.
+- Repo: https://github.com/DomCritchlow/flags
+
 ### ☀️ Helio — minimalist solar activity visualizer
 Live NOAA data rendered as a pixel-grid sun, with sunspot regions at real heliographic coordinates and a 28-day scrubber to replay the month.
 - Repo: https://github.com/DomCritchlow/helio
